@@ -1,6 +1,5 @@
 package TestCases;
 
-import PageObjects.SearchProduct;
 import PageObjects.ViewPrice;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterMethod;
